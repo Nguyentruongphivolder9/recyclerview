@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Recyclerview/app/src/main/res/drawable/bg_cicle_blur.xml" value="0.1475" />
+        <entry key="..\:/Recyclerview/app/src/main/res/drawable/bg_conner.xml" value="0.1" />
+        <entry key="..\:/Recyclerview/app/src/main/res/drawable/bg_conner_button_orange.xml" value="0.1475" />
+        <entry key="..\:/Recyclerview/app/src/main/res/drawable/bg_conner_white.xml" value="0.1475" />
         <entry key="..\:/Recyclerview/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Recyclerview/app/src/main/res/layout/item_food.xml" value="0.536" />
       </map>
     </option>
   </component>
